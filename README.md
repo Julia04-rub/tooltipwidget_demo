@@ -48,6 +48,6 @@ Tooltip(
 
 ##  Screenshot
 
-(<Screenshot (431).png>)
+(screenshots/Screenshot (431).png)
 
 
