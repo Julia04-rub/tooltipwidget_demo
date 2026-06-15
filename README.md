@@ -48,6 +48,6 @@ Tooltip(
 
 ##  Screenshot
 
-(screenshots/Screenshot (431).png)
+![Tooltip Demo](screenshots/Screenshot.png)
 
 
