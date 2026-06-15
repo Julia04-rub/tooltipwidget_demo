@@ -1,13 +1,11 @@
 # Tooltip Widget Demo
 
-This is a Flutter widget that shows a short contextual message when a user hovers or long-presses an element, keeping UI clean while still guiding users.
+This is a Flutter widget that shows a short contextual message when a user hovers or long-presses an element as a way of guiding users.
 
 
 ##  What This Demo Does
 
-This app simulates a real-world account sign-up form where each field has an info icon. Hovering or long-pressing the icon triggers a **Tooltip**
-that explains the field's requirements exactly how production app like Google Forms guide users.
-
+This app simulates a real-world account sign-up form where each field has an info icon. Hovering or long-pressing the icon triggers a Tooltip that explains the field's requirements, exactly how production apps like Google Forms guide users.
 
 
 ## How to Run
